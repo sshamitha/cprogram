@@ -1,2 +1,5 @@
-# cprogram
-I am the student of DRAIT LEARNING C PROGRAMMING
+# C PROGRAM
+TOPICS;
+## FUNCTIONS 
+## POINTERS 
+## DATA TYPES
